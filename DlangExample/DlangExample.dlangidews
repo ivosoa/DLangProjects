@@ -1,0 +1,7 @@
+{
+    "name": "DlangExampl",
+    "description": null,
+    "projects": {
+        "DlangExample": "dub.json"
+    }
+}

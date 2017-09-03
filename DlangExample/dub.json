@@ -1,0 +1,6 @@
+{
+    "name": "DlangExample",
+    "targetName": "DlangExample",
+    "targetType": "executable",
+    "targetPath": "bin"
+}
